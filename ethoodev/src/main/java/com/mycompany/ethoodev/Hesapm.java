@@ -1,4 +1,4 @@
-package com.mycompany.hesapm;
+package com.mycompany.ethoodev;
 
 import java.util.Scanner;
 
