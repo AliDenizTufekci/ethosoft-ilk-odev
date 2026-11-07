@@ -1,4 +1,4 @@
-package com.mycompany.haftagun;
+package com.mycompany.ethoodev;
  
 import java.util.Scanner;
 
