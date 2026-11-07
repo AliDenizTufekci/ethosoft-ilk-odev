@@ -59,7 +59,7 @@ NOT: Bu raporda bazı çıktılar ve girdiler ifade edilirken Java'nın dil duya
 
 NOT: Beklenti ve özellikle de test kısımlarında, raporun daha anlaşılabilir ve daha özet olması adına sadece temel bilgi ve işlemler üzerinde durulmuştur.
 
-YANİ bu raporu daha çok "açıklayıcı bir ön rehber" gibi okumanız, asıl detayları ve orijinal kod satırlarını görmek için ise "ethoodev" dosyama göz atabilirsiniz.
+YANİ bu raporu daha çok "açıklayıcı bir ön rehber" gibi okumanız, asıl detayları ve orijinal kod satırlarını görmek için ise "ethoodev" dosyama göz atmanız tavsiye edilir.
 
 
 
