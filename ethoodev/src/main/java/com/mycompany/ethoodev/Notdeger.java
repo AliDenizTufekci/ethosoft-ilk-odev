@@ -1,4 +1,4 @@
-package com.mycompany.notdeger;
+package com.mycompany.ethoodev;
 
 import java.util.Scanner;
 
