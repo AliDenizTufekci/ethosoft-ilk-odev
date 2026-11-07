@@ -1,4 +1,4 @@
-package com.mycompany.ucgen;
+package com.mycompany.ethoodev;
 
 import java.util.Scanner;
 
