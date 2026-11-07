@@ -1,4 +1,4 @@
-package com.company.tekcift2;
+package com.company.ethoodev;
 
 import java.util.Scanner;
 
