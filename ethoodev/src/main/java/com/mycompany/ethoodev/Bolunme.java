@@ -1,4 +1,4 @@
-package com.mycompany.bolunme;
+package com.mycompany.ethoodev;
 
 import java.util.Scanner;
 
